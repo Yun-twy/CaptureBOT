@@ -2,5 +2,8 @@
 
 ![](https://github.com/Yun-twy/CaptureBOT/blob/master/capturebot.GIF)
 
+### CaptureBOT components
+![Alt text](components.PNG)
+
 ### System Diagram
 ![Alt text](diagram.PNG)
