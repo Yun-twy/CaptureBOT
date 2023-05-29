@@ -2,4 +2,4 @@
 
 ![](https://github.com/Yun-twy/CaptureBOT/blob/master/capturebot.GIF)
 
-![Alt text]()
+![Alt text](diagram.PNG)
