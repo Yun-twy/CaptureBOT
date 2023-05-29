@@ -2,7 +2,10 @@
 
 ![](https://github.com/Yun-twy/CaptureBOT/blob/master/capturebot.GIF)
 
-### CaptureBOT components
+### Specification
+![Alt text](spec.PNG)
+
+### Components
 ![Alt text](components.PNG)
 
 ### System Diagram
